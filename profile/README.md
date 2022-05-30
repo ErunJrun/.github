@@ -134,7 +134,7 @@
       <tr>
     <td align="center"><a href="https://github.com/U-Jinyeol"><b>유진열</b></a></td>
     <td align="center">FE(vice-leader)</td>
-    <td align="center"></td>
+    <td align="center">uncreative@naver.com</td>
   </tr>
       <tr>
     <td align="center"><a href="https://github.com/Daun1309"><b>김다운</b></a></td>
@@ -144,11 +144,11 @@
       <tr>
     <td align="center"><b>김희영</b></td>
     <td align="center">Design(member)</td>
-    <td align="center">shindy93@naver.com</td>
+    <td align="center">imsound@naver.com</td>
   </tr>
       <tr>
     <td align="center"><b>방남지</b></td>
     <td align="center">Design(member)</td>
-    <td align="center">shindy93@naver.com</td>
+    <td align="center">namjibhang@gamil.com</td>
   </tr>
 </table>
