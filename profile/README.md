@@ -109,7 +109,7 @@
 
 <br/>
 
-## 🙂 Mebers
+## 🙂 Members
 <table>
    <tr>
     <td align="center" width="20%"><b>name</b></td>
