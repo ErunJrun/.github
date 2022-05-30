@@ -106,3 +106,49 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
 <br>
 </p>
+
+<br/>
+
+## 🙂 Mebers
+<table>
+   <tr>
+    <td align="center" width="20%"><b>name</b></td>
+    <td align="center"width="10%"><b>position</b></td>
+    <td align="center"width="30%"><b>contact</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/hyeonjun4460"><b>유현준</b></a></td>
+    <td align="center">BE(leader)</td>
+    <td align="center">hyeonjun4460@gmail.com</td>
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/inmyblue"><b>오지우</b></a></td>
+    <td align="center">BE(member)</td>
+    <td align="center">inmyblue0930@naver.com</td>
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/DongYoung-dev"><b>신동영</b></a></td>
+    <td align="center">BE(member)</td>
+    <td align="center">shindy93@naver.com</td>
+  </tr>
+      <tr>
+    <td align="center"><a href="https://github.com/U-Jinyeol"><b>유진열</b></a></td>
+    <td align="center">FE(vice-leader)</td>
+    <td align="center"></td>
+  </tr>
+      <tr>
+    <td align="center"><a href="https://github.com/Daun1309"><b>김다운</b></a></td>
+    <td align="center">FE(member)</td>
+    <td align="center">daun1309@gmail.com</td>
+  </tr>
+      <tr>
+    <td align="center"><b>김희영</b></td>
+    <td align="center">Design(member)</td>
+    <td align="center">shindy93@naver.com</td>
+  </tr>
+      <tr>
+    <td align="center"><b>방남지</b></td>
+    <td align="center">Design(member)</td>
+    <td align="center">shindy93@naver.com</td>
+  </tr>
+</table>
