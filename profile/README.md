@@ -149,6 +149,6 @@
       <tr>
     <td align="center"><b>방남지</b></td>
     <td align="center">Design(member)</td>
-    <td align="center">namjibhang@gamil.com</td>
+    <td align="center">namjibhang@gmail.com</td>
   </tr>
 </table>
