@@ -23,9 +23,10 @@
 
 - 별도의 정보 입력 없이 간편하게 로그인할 수 있습니다.
 
-### 🏃‍♀그룹러닝
+#### 🏃‍♀그룹러닝 모집 & 그룹채팅
 
 - 다른 사람과 뛰고 싶은 코스를 직접 그려서 함께 뛸 사람을 모집할 수 있습니다.
+- 채팅을 통해 질문과 답변에 대한 소통을 할 수 있습니다.
 
 ### ✔ 출석체크/크루장 평가
 
@@ -82,6 +83,7 @@
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/axios-007CE2?style=for-the-badge&logo=axios&logoColor=white">
 <img src="https://img.shields.io/badge/reactrouterdom-CA4245?style=for-the-badge&logo=reactrouterdom&logoColor=white">
+<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=reactrouterdom&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
